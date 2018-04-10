@@ -1,0 +1,8 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"";
+"4";"";"POT";"ALPS_POT";"RV1, RV2, RV3, RV4";"";"";
+"10";"";"TAC_SWITCHPTH";"TACTILE-PTH";"SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9, SW10";"Momentary Switch";"";
+"8";"100K";"SMD-RES-100K-1%-1/10W(0603)";"R0603";"R100, R101, R102, R103, R104, R105, R106, R107";"301010196";"";
+"2";"F10";"M10SILK_FEMALE_PTH";"1X10_OCTO";"J101, J102";"Header 10";"";
+"10";"JACK-3_5MM-MONO-SW-MIN";"JACK-3_5MM-MONO-SW-MIN";"WQP_PJ301M-MIN";"J1, J2, J3, J4, J5, J6, J7, J8, J9, J10";"Jack, 3.5mm, RIght Angle, Though-Hole";"";
+"2";"PA_LOGO_SYMMED";"PA_LOGO_SYMMED";"PA_LOGO_AGENT_MED_SYM";"$$U$100, $$U$101";"PatternAgents Logo Symbol";"";
+"1";"PA_LOGO_SYMSMALL";"PA_LOGO_SYMSMALL";"PA_LOGO_AGENT_SMALL_SYM";"$$U$1";"PatternAgents Logo Symbol";"";
