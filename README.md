@@ -1,4 +1,4 @@
-# JackPots { ERA : Four (4) Attenuator, Eight (8) Jack I/O board }
+# JackPots { ERA : Four (4) Attenuator, Eight (8) Jack board }
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -11,6 +11,8 @@ Width: 16HP
 Depth : 1.0 cm
 
 Power : +12V 20mA
+
+Jacks : 3.5mm mono (Thonkicon)
 
 JackPots is a simple quad Attenuator I/O module.
 
