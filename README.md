@@ -16,7 +16,6 @@ Jacks : 3.5mm mono (Thonkicon)
 
 JackPots is a simple quad Attenuator I/O module.
 
-The board can optionally include four (4) programmable color RGB LEDs,
 [![thingSoC JackPots](https://github.com/PatternAgents/JackPots/blob/master/JackPots/images/JackPots_top.png?raw=true)JackPots](https://github.com/patternagents/JackPots)
 
 JackPots can be used on a breadboard for prototyping new circuits,
